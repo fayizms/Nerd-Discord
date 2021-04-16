@@ -1,0 +1,139 @@
+{
+    "Abstract": "",
+    "AbstractSource": "Wikipedia",
+    "AbstractText": "",
+    "AbstractURL": "https://en.wikipedia.org/wiki/IP",
+    "Answer": "Your IP address is 137.97.75.122 in <a href=\"https://duckduckgo.com/?q=Nellayi%2C%20Kerala%2C%20India%20(680311)&iar=maps_maps\">Nellayi, Kerala, India (680311)</a>",
+    "AnswerType": "ip",
+    "Definition": "",
+    "DefinitionSource": "",
+    "DefinitionURL": "",
+    "Entity": "",
+    "Heading": "IP",
+    "Image": "",
+    "ImageHeight": 0,
+    "ImageIsLogo": 0,
+    "ImageWidth": 0,
+    "Infobox": "",
+    "Redirect": "",
+    "RelatedTopics": [
+        {
+            "FirstURL": "https://duckduckgo.com/IP_address",
+            "Icon": {
+                "Height": "",
+                "URL": "/i/515cfe6b.png",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/IP_address\">IP address</a> A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing.",
+            "Text": "IP address A numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: host or network interface identification and location addressing."
+        },
+        {
+            "FirstURL": "https://duckduckgo.com/IP_Code",
+            "Icon": {
+                "Height": "",
+                "URL": "",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/IP_Code\">IP Code</a> The IP Code, or Ingress Protection Code, IEC standard 60529, sometimes interpreted as International Protection Code, classifies and rates the degree of protection provided by mechanical casings and electrical enclosures against intrusion, dust, accidental contact, and water.",
+            "Text": "IP Code The IP Code, or Ingress Protection Code, IEC standard 60529, sometimes interpreted as International Protection Code, classifies and rates the degree of protection provided by mechanical casings and electrical enclosures against intrusion, dust, accidental contact, and water."
+        },
+        {
+            "FirstURL": "https://duckduckgo.com/Intellectual_property",
+            "Icon": {
+                "Height": "",
+                "URL": "/i/a04c6201.jpg",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/Intellectual_property\">Intellectual property</a> A category of property that includes intangible creations of the human intellect. There are many types of intellectual property, and some countries recognize more than others. The most well-known types are copyrights, patents, trademarks, and trade secrets.",
+            "Text": "Intellectual property A category of property that includes intangible creations of the human intellect. There are many types of intellectual property, and some countries recognize more than others. The most well-known types are copyrights, patents, trademarks, and trade secrets."
+        },
+        {
+            "FirstURL": "https://duckduckgo.com/Indraprastha_College_for_Women",
+            "Icon": {
+                "Height": 16,
+                "URL": "/i/ipcollege.du.ac.in.ico",
+                "Width": 16
+            },
+            "Result": "<a href=\"https://duckduckgo.com/Indraprastha_College_for_Women\">IP College</a> The oldest women's college in Delhi. Established in 1924, it is affiliated to University of Delhi.",
+            "Text": "IP College The oldest women's college in Delhi. Established in 1924, it is affiliated to University of Delhi."
+        },
+        {
+            "FirstURL": "https://duckduckgo.com/Indian_Police_Service",
+            "Icon": {
+                "Height": "",
+                "URL": "/i/0bba5058.jpg",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/Indian_Police_Service\">Imperial Police</a> The Indian Police Service is one of the three All India Services as envisaged in the Constitution of India. It replaced the Indian Imperial Police in 1948, a year after India became independent from the United Kingdom.",
+            "Text": "Imperial Police The Indian Police Service is one of the three All India Services as envisaged in the Constitution of India. It replaced the Indian Imperial Police in 1948, a year after India became independent from the United Kingdom."
+        },
+        {
+            "FirstURL": "https://duckduckgo.com/International_Paper",
+            "Icon": {
+                "Height": "",
+                "URL": "/i/f10790a7.png",
+                "Width": ""
+            },
+            "Result": "<a href=\"https://duckduckgo.com/International_Paper\">International Paper</a> An American pulp and paper company, the largest such company in the world. It has approximately 56,000 employees, and is headquartered in Memphis, Tennessee.",
+            "Text": "International Paper An American pulp and paper company, the largest such company in the world. It has approximately 56,000 employees, and is headquartered in Memphis, Tennessee."
+        }
+    ],
+    "Results": [],
+    "Type": "E",
+    "meta": {
+        "attribution": null,
+        "blockgroup": null,
+        "created_date": null,
+        "description": "Wikipedia",
+        "designer": null,
+        "dev_date": null,
+        "dev_milestone": "live",
+        "developer": [
+            {
+                "name": "DDG Team",
+                "type": "ddg",
+                "url": "http://www.duckduckhack.com"
+            }
+        ],
+        "example_query": "nikola tesla",
+        "id": "wikipedia_fathead",
+        "is_stackexchange": null,
+        "js_callback_name": "wikipedia",
+        "live_date": null,
+        "maintainer": {
+            "github": "duckduckgo"
+        },
+        "name": "Wikipedia",
+        "perl_module": "DDG::Fathead::Wikipedia",
+        "producer": null,
+        "production_state": "online",
+        "repo": "fathead",
+        "signal_from": "wikipedia_fathead",
+        "src_domain": "en.wikipedia.org",
+        "src_id": 1,
+        "src_name": "Wikipedia",
+        "src_options": {
+            "directory": "",
+            "is_fanon": 0,
+            "is_mediawiki": 1,
+            "is_wikipedia": 1,
+            "language": "en",
+            "min_abstract_length": "20",
+            "skip_abstract": 0,
+            "skip_abstract_paren": 0,
+            "skip_end": "0",
+            "skip_icon": 0,
+            "skip_image_name": 0,
+            "skip_qr": "",
+            "source_skip": "",
+            "src_info": ""
+        },
+        "src_url": null,
+        "status": "live",
+        "tab": "About",
+        "topic": [
+            "productivity"
+        ],
+        "unsafe": 0
+    }
+}
