@@ -1,6 +1,6 @@
 import requests
 
-APOD_KEY = 'j4diL8dtnV745otA9fkSyYJzorwDXjB73XrdLtiw'
+APOD_KEY = ''
 APOD_SITE = f'https://api.nasa.gov/planetary/apod?api_key={APOD_KEY}'
 SOLAR_SYSTEM_API = 'https://api.le-systeme-solaire.net/rest/bodies/'
 
